@@ -367,3 +367,6 @@ footer p{
 .trr p{
     font-size: 20px;
 }
+.trr img{
+    background-size: cover;
+}
